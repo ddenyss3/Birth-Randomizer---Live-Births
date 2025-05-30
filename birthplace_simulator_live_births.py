@@ -2,8 +2,6 @@ import streamlit as st
 import pandas as pd
 import random
 
-# Sample dataset: country population (2023 est.)
-# You can replace or expand this with up-to-date or detailed data
 country_population = {
 'Afghanistan' : 1469029,
 'Albania' : 28803,
